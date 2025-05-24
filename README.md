@@ -5,25 +5,23 @@ It serves as a beginner-friendly frontend project to practice core web developme
 
 ## ✨ Features
 
-- 📱 Fully responsive design — works on all screen sizes (mobile, tablet, desktop)
-- 🎨 Clean, modern layout with a consistent color palette and typography
-- 🧩 Modular HTML structure and organized CSS
-- 🌐 Semantic HTML for accessibility and SEO
-- ⚙️ Built without any frameworks or libraries — pure HTML and CSS
+-  Fully responsive design — works on all screen sizes (mobile, tablet, desktop)
+-  Clean, modern layout with a consistent color palette and typography
+-  Modular HTML structure and organized CSS
+-  Semantic HTML for accessibility and SEO
+-  Built without any frameworks or libraries — pure HTML and CSS
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **HTML5** — Semantic structure and layout
 - **CSS3** — Custom styling, flexbox, and responsive media queries
 
-## 📁 Folder Structure
-StudySync/
-│
-├── index.html # Main HTML file
-└── style.css # Stylesheet
+##  Folder Structure
+StudySync/index.html # Main HTML file
+StudySync/style.css # Stylesheet
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run the project locally:
 
@@ -31,11 +29,7 @@ To run the project locally:
 2. Open the `index.html` file in your browser.
 3. That's it! No setup or dependencies required.
 
-## 📸 Screenshots
-
-(Add screenshots here if you want to showcase the UI)
-
-## 📚 What I Learned
+##  What I Learned
 
 This project helped reinforce:
 
@@ -43,12 +37,6 @@ This project helped reinforce:
 - Creating responsive layouts with Flexbox and media queries
 - Structuring and organizing CSS efficiently
 - Building a complete UI from scratch
-
-## 📌 Future Improvements
-
-- Add smooth scrolling and animations using JavaScript
-- Optimize layout with CSS Grid
-- Convert to a multi-page site
 
 ---
 
