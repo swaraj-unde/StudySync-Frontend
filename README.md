@@ -1,8 +1,10 @@
 # StudySync
 
-**StudySync** is a clean and responsive landing page built using only HTML and CSS.  
+**StudySync** is a clean and responsive landing page built using only HTML and CSS.
 It serves as a beginner-friendly frontend project to practice core web development skills like layout design, styling, responsiveness, and visual hierarchy.
 
+## Link :
+https://swaraj-unde.github.io/StudySync-Frontend/
 ## ✨ Features
 
 -  Fully responsive design — works on all screen sizes (mobile, tablet, desktop)
